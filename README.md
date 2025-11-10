@@ -12,3 +12,5 @@
 | <a href="https://gemini.google.com/share/2eadccb2538b"><img width="150" src="covers/cover008.png"></a> | Daisy, The Cat Who Zoomed |
 | <a href="https://gemini.google.com/share/340c8d3653bc"><img width="150" src="covers/cover009.png"></a> | Masha and Alisa and the Ice-Powered Birthday |
 | <a href="https://gemini.google.com/share/2f1d986d435e"><img width="150" src="covers/cover010.png"></a> | Daisy and the Coffee Catastrophe |
+| <a href="https://gemini.google.com/share/c1e42bd5875d"><img width="150" src="covers/cover011.png"></a> | Masha, Alisa, and the Nine Out of Nine Night |
+| <a href="https://gemini.google.com/share/c1e2d7342dc4"><img width="150" src="covers/cover012.png"></a> | The Day Kartina Safe One Returned |

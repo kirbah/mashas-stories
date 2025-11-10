@@ -11,3 +11,4 @@
 | <a href="https://gemini.google.com/share/f726c843dfb1"><img width="150" src="covers/cover007.png"></a> | The Birthday Cat Spell |
 | <a href="https://gemini.google.com/share/2eadccb2538b"><img width="150" src="covers/cover008.png"></a> | Daisy, The Cat Who Zoomed |
 | <a href="https://gemini.google.com/share/340c8d3653bc"><img width="150" src="covers/cover009.png"></a> | Masha and Alisa and the Ice-Powered Birthday |
+| <a href="https://gemini.google.com/share/2f1d986d435e"><img width="150" src="covers/cover010.png"></a> | Daisy and the Coffee Catastrophe |

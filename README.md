@@ -14,3 +14,5 @@
 | <a href="https://gemini.google.com/share/2f1d986d435e"><img width="150" src="covers/cover010.png"></a> | Daisy and the Coffee Catastrophe |
 | <a href="https://gemini.google.com/share/c1e42bd5875d"><img width="150" src="covers/cover011.png"></a> | Masha, Alisa, and the Nine Out of Nine Night |
 | <a href="https://gemini.google.com/share/c1e2d7342dc4"><img width="150" src="covers/cover012.png"></a> | The Day Kartina Safe One Returned |
+| <a href="https://gemini.google.com/share/0ca9ae19b44f"><img width="150" src="covers/cover013.png"></a> | Masha and the Icicle Cat's Christmas Trick |
+| <a href="https://gemini.google.com/share/599de74c3e15"><img width="150" src="covers/cover014.png"></a> | Masha, Alisa, and the Fuzzball Fiasco |

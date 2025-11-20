@@ -16,3 +16,5 @@
 | <a href="https://gemini.google.com/share/c1e2d7342dc4"><img width="150" src="covers/cover012.png"></a> | The Day Kartina Safe One Returned |
 | <a href="https://gemini.google.com/share/0ca9ae19b44f"><img width="150" src="covers/cover013.png"></a> | Masha and the Icicle Cat's Christmas Trick |
 | <a href="https://gemini.google.com/share/599de74c3e15"><img width="150" src="covers/cover014.png"></a> | Masha, Alisa, and the Fuzzball Fiasco |
+| <a href="https://gemini.google.com/share/8f3aac494258"><img width="150" src="covers/cover015.png"></a> | Masha and the Forty-Four Fluff Attack |
+| <a href="https://gemini.google.com/share/40f6737cd8bb"><img width="150" src="covers/cover016.png"></a> | Masha, Daisy, and the Terrible Thunder Flutes |
